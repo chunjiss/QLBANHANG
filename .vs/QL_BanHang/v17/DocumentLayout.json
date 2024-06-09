@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\models\\ql_banhangtuixachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\models\\ql_banhangtuixachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\areas\\admin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\areas\\admin\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\areas\\admin\\views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\areas\\admin\\views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\areas\\admin\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\areas\\admin\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\areas\\admin\\views\\sanpham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\areas\\admin\\views\\sanpham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\areas\\admin\\models\\sanphamrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\areas\\admin\\models\\sanphamrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\areas\\admin\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\areas\\admin\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\interfaces\\idonhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\interfaces\\idonhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\services\\giohangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\services\\giohangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\interfaces\\igiohangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\interfaces\\igiohangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\interfaces\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\interfaces\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\services\\donhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\services\\donhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\views\\giohang\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\views\\giohang\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|c:\\chun\\doanmonhoc-yigbwu (1)\\doanmonhoc\\ql_banhang\\ql_banhang\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64587B3B-9A77-49E9-98E0-5EB400FF1F16}|QL_BanHang\\QL_BanHang.csproj|solutionrelative:ql_banhang\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\appsettings.json",
+              "RelativeDocumentMoniker": "QL_BanHang\\appsettings.json",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\appsettings.json",
+              "RelativeToolTip": "QL_BanHang\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T12:40:30.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "QL_BanHang\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowFoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Delete.cshtml",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Delete.cshtml",
+              "RelativeToolTip": "QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T12:40:30.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Create.cshtml",
+              "RelativeDocumentMoniker": "QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Create.cshtml",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Create.cshtml",
+              "RelativeToolTip": "QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T12:40:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QL_BanHangTuiXachContext.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Models\\QL_BanHangTuiXachContext.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Models\\QL_BanHangTuiXachContext.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Models\\QL_BanHangTuiXachContext.cs",
+              "RelativeToolTip": "QL_BanHang\\Models\\QL_BanHangTuiXachContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QL_BanHang\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QL_BanHang\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAIBJwJIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T12:40:30.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPhamService.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Services\\SanPhamService.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Services\\SanPhamService.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Services\\SanPhamService.cs",
+              "RelativeToolTip": "QL_BanHang\\Services\\SanPhamService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "QL_BanHang\\appsettings.Development.json",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\appsettings.Development.json",
+              "RelativeToolTip": "QL_BanHang\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T12:41:12.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "QL_BanHang\\Areas\\Admin\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "QL_BanHang\\Areas\\Admin\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Models\\SanPham.cs",
+              "RelativeToolTip": "QL_BanHang\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SanPhamRequest.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Models\\SanPhamRequest.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Areas\\Admin\\Models\\SanPhamRequest.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Models\\SanPhamRequest.cs",
+              "RelativeToolTip": "QL_BanHang\\Areas\\Admin\\Models\\SanPhamRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Areas\\Admin\\Controllers\\DonHangController.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "QL_BanHang\\Areas\\Admin\\Controllers\\DonHangController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDonHangService.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Interfaces\\IDonHangService.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Interfaces\\IDonHangService.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Interfaces\\IDonHangService.cs",
+              "RelativeToolTip": "QL_BanHang\\Interfaces\\IDonHangService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "QL_BanHang\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T12:40:30.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGioHangService.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Interfaces\\IGioHangService.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Interfaces\\IGioHangService.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Interfaces\\IGioHangService.cs",
+              "RelativeToolTip": "QL_BanHang\\Interfaces\\IGioHangService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IKhachHangService.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Interfaces\\IKhachHangService.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Interfaces\\IKhachHangService.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Interfaces\\IKhachHangService.cs",
+              "RelativeToolTip": "QL_BanHang\\Interfaces\\IKhachHangService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GioHangService.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Services\\GioHangService.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Services\\GioHangService.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Services\\GioHangService.cs",
+              "RelativeToolTip": "QL_BanHang\\Services\\GioHangService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:30.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "QL_BanHang\\Controllers\\GioHangController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAmwEgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:31.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "QL_BanHang\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvyoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:31.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QL_BanHang\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:31.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DonHangService.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Services\\DonHangService.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Services\\DonHangService.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Services\\DonHangService.cs",
+              "RelativeToolTip": "QL_BanHang\\Services\\DonHangService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:31.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "QL_BanHang\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwCsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:31.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ThanhToan.cshtml",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Views\\GioHang\\ThanhToan.cshtml",
+              "RelativeDocumentMoniker": "QL_BanHang\\Views\\GioHang\\ThanhToan.cshtml",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Views\\GioHang\\ThanhToan.cshtml",
+              "RelativeToolTip": "QL_BanHang\\Views\\GioHang\\ThanhToan.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T12:40:31.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Views\\GioHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "QL_BanHang\\Views\\GioHang\\Index.cshtml",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Views\\GioHang\\Index.cshtml",
+              "RelativeToolTip": "QL_BanHang\\Views\\GioHang\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAIBJwEkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T12:40:31.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Startup.cs",
+              "RelativeDocumentMoniker": "QL_BanHang\\Startup.cs",
+              "ToolTip": "C:\\Chun\\DoAnMonHoc-yigbwu (1)\\DoAnMonHoc\\QL_BanHang\\QL_BanHang\\Startup.cs",
+              "RelativeToolTip": "QL_BanHang\\Startup.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:40:31.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
